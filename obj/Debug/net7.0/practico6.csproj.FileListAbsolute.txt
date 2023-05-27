@@ -1,0 +1,15 @@
+C:\Users\Tomas\Desktop\TP-6-TL1\practico6\bin\Debug\net7.0\practico6.exe
+C:\Users\Tomas\Desktop\TP-6-TL1\practico6\bin\Debug\net7.0\practico6.deps.json
+C:\Users\Tomas\Desktop\TP-6-TL1\practico6\bin\Debug\net7.0\practico6.runtimeconfig.json
+C:\Users\Tomas\Desktop\TP-6-TL1\practico6\bin\Debug\net7.0\practico6.dll
+C:\Users\Tomas\Desktop\TP-6-TL1\practico6\bin\Debug\net7.0\practico6.pdb
+C:\Users\Tomas\Desktop\TP-6-TL1\practico6\obj\Debug\net7.0\practico6.csproj.AssemblyReference.cache
+C:\Users\Tomas\Desktop\TP-6-TL1\practico6\obj\Debug\net7.0\practico6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomas\Desktop\TP-6-TL1\practico6\obj\Debug\net7.0\practico6.AssemblyInfoInputs.cache
+C:\Users\Tomas\Desktop\TP-6-TL1\practico6\obj\Debug\net7.0\practico6.AssemblyInfo.cs
+C:\Users\Tomas\Desktop\TP-6-TL1\practico6\obj\Debug\net7.0\practico6.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Desktop\TP-6-TL1\practico6\obj\Debug\net7.0\practico6.dll
+C:\Users\Tomas\Desktop\TP-6-TL1\practico6\obj\Debug\net7.0\refint\practico6.dll
+C:\Users\Tomas\Desktop\TP-6-TL1\practico6\obj\Debug\net7.0\practico6.pdb
+C:\Users\Tomas\Desktop\TP-6-TL1\practico6\obj\Debug\net7.0\practico6.genruntimeconfig.cache
+C:\Users\Tomas\Desktop\TP-6-TL1\practico6\obj\Debug\net7.0\ref\practico6.dll
