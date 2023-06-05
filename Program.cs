@@ -93,3 +93,24 @@ while (!dato)
     float num4 = 13.768f;
     int entera = (int)Math.Floor(num4);
     Console.WriteLine("La parte entera de "+num4+" es: "+entera);
+
+    int num5, num6;
+
+    Console.WriteLine("Ingrese 2 numeros");
+    Console.WriteLine("1er num: ");
+    num5 = int.Parse(Console.ReadLine());
+    Console.WriteLine("2do num: ");
+    num6 = int.Parse(Console.ReadLine());
+
+    if (num5 > num6)
+    {
+        Console.WriteLine("el 1er num ingresado "+num5+" es mayor al 2do num "+num6);
+    } 
+    
+    if(num6 > num5){
+        Console.WriteLine("el 2do num ingresado "+num6+" es mayor al 1er num "+num4);
+    }
+
+    if(num5 = num6){
+        Console.WriteLine("Ambos numeros son iguales "+num5+"="+num6);
+    }
